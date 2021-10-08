@@ -1,14 +1,2 @@
-input string with arguments
-
-~Ξ command arg1 arg2 ... argN
-
-match command against map
-
-run function against args
-
-return CommandObject
-
-CommandObject has function to do the following
-    print output
-    return value
-    
+To Do:
+Add Git support https://github.com/Henrixounez/v-git
